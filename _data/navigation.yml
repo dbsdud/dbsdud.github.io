@@ -2,11 +2,11 @@ main:
   - title: "About"
     url: https://dbsdud.github.io
   - title: "Research"
-    url: https://dbsdud.github.io/dbsdud/research/
+    url: https://dbsdud.github.io/research/
   - title: "Project"
-    url: https://dbsdud.github.io/dbsdud/project/
+    url: https://dbsdud.github.io/project/
   - title: "Note"
-    url: https://dbsdud.github.io/dbsdud/note/
+    url: https://dbsdud.github.io/note/
 
 docs:
   - title: "Research"
