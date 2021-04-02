@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "dbsdud.ghkd"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Master**"
   location         : "Soongsil Univ, ROK"
   email            :
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/dbsdud"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dbsdud.ghkd"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://www.github.com/dbsdud"
+      url: "https://github.com/dbsdud"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
