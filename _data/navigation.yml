@@ -1,63 +1,33 @@
 main:
   - title: "About"
     url: https://dbsdud.github.io
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Research"
+    url: /research/
+  - title: "Project"
+    url: /project/
+  - title: "Note"
+    url: /note/
 
 docs:
-  - title: 1
+  - title: "Research"
+    url: https://dbsdud.github.io/research
     children:
-      - title: "1-1"
-        url: https://naver.com
-      - title: "1-2"
-        url: https://google.com
-  - title: 2
+      - title: "2019"
+        url: https://dbsdud.github.io/research/2019
+      - title: "2020"
+        url: https://dbsdud.github.io/research/2020
+      - title: "2021"
+        url: https://dbsdud.github.io/research/2021
+  - title: "Project"
+    url: https://dbsdud.github.io/project
     children:
-      - title: "2-1"
-        url: https://naver.com
-      - title: "2-2"
-        url: https://google.com
-  - title: 3
-    children:
-      - title: "3-1"
-        url: https://naver.com
-      - title: "3-2"
-        url: https://google.com
-  - title: 4
-    children:
-      - title: "4-1"
-        url: https://naver.com
-      - title: "4-2"
-        url: https://google.com
-  - title: 5
-    children:
-      - title: "5-1"
-        url: https://naver.com
-      - title: "5-2"
-        url: https://google.com
-  - title: 6
-    children:
-      - title: "6-1"
-        url: https://naver.com
-      - title: "6-2"
-        url: https://google.com
-  - title: 7
-    children:
-      - title: "7-1"
-        url: https://naver.com
-      - title: "7-2"
-        url: https://google.com
-  - title: 8
-    children:
-      - title: "8-1"
-        url: https://naver.com
-      - title: "8-2"
-        url: https://google.com
+      - title: "2018"
+        url: https://dbsdud.github.io/project/2018
+      - title: "2019"
+        url: https://dbsdud.github.io/project/2019
+      - title: "2020"
+        url: https://dbsdud.github.io/project/2020
+      - title: "2021"
+        url: https://dbsdud.github.io/project/2021
+  - title: "Note"
+    url: https://dbsdud.github.io/note
