@@ -2,32 +2,32 @@ main:
   - title: "About"
     url: https://dbsdud.github.io
   - title: "Research"
-    url: /research/
+    url: https://dbsdud.github.io/dbsdud/research/
   - title: "Project"
-    url: /project/
+    url: https://dbsdud.github.io/dbsdud/project/
   - title: "Note"
-    url: /note/
+    url: https://dbsdud.github.io/dbsdud/note/
 
 docs:
   - title: "Research"
-    url: https://dbsdud.github.io/research
+    url: https://dbsdud.github.io/dbsdud/research
     children:
       - title: "2019"
-        url: https://dbsdud.github.io/research/2019
+        url: https://dbsdud.github.io/dbsdud/research/2019/
       - title: "2020"
-        url: https://dbsdud.github.io/research/2020
+        url: https://dbsdud.github.io/dbsdud/research/2020/
       - title: "2021"
-        url: https://dbsdud.github.io/research/2021
+        url: https://dbsdud.github.io/dbsdud/research/2021/
   - title: "Project"
-    url: https://dbsdud.github.io/project
+    url: https://dbsdud.github.io/dbsdud/project
     children:
       - title: "2018"
-        url: https://dbsdud.github.io/project/2018
+        url: https://dbsdud.github.io/dbsdud/project/2018/
       - title: "2019"
-        url: https://dbsdud.github.io/project/2019
+        url: https://dbsdud.github.io/dbsdud/project/2019/
       - title: "2020"
-        url: https://dbsdud.github.io/project/2020
+        url: https://dbsdud.github.io/dbsdud/project/2020/
       - title: "2021"
-        url: https://dbsdud.github.io/project/2021
+        url: https://dbsdud.github.io/dbsdud/project/2021/
   - title: "Note"
-    url: https://dbsdud.github.io/note
+    url: https://dbsdud.github.io/dbsdud/note/
