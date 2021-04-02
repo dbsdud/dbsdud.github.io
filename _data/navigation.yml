@@ -12,22 +12,22 @@ docs:
   - title: "Research"
     url: https://dbsdud.github.io/research
     children:
-      - title: "2019"
-        url: https://dbsdud.github.io/research/2019/
-      - title: "2020"
-        url: https://dbsdud.github.io/research/2020/
       - title: "2021"
         url: https://dbsdud.github.io/research/2021/
+      - title: "2020"
+        url: https://dbsdud.github.io/research/2020/
+      - title: "2019"
+        url: https://dbsdud.github.io/research/2019/
   - title: "Project"
     url: https://dbsdud.github.io/project
     children:
-      - title: "2018"
-        url: https://dbsdud.github.io/project/2018/
-      - title: "2019"
-        url: https://dbsdud.github.io/project/2019/
-      - title: "2020"
-        url: https://dbsdud.github.io/project/2020/
       - title: "2021"
         url: https://dbsdud.github.io/project/2021/
+      - title: "2020"
+        url: https://dbsdud.github.io/project/2020/
+      - title: "2019"
+        url: https://dbsdud.github.io/project/2019/
+      - title: "2018"
+        url: https://dbsdud.github.io/project/2018/
   - title: "Note"
     url: https://dbsdud.github.io/note/
